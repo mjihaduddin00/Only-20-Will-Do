@@ -1,0 +1,2 @@
+# Only-20-Will-Do
+In this assignment I was tasked with placing the plus and minus signs correctly so that the variable result would equal twenty within the main method. The signs had to be placed only in the line where the variable result is declared without changing the order of the variables in the line. Also, each variable must be preceded by either a plus or minus sign all within the Java programming language.
